@@ -1,0 +1,30 @@
+# FlowAI ETL - General Settings
+# -----------------------------------------------------------
+
+pipeline:
+  output_dir: output
+  log_level: INFO
+  snapshot_enabled: true     # Save DataFrame snapshots between steps
+  max_retries: 2
+  retry_delay: 1.0
+
+llm:
+  cache_enabled: true
+  cache_path: .llm_cache.db
+  default_temperature: 0.0
+  default_max_tokens: 4096
+
+  # Model routing by task type (override per provider in providers.yaml)
+  task_routing:
+    profiling: haiku          # Cheap model for high-volume profiling
+    enrichment: haiku         # Sentiment, entities, classification
+    anomaly_explanation: sonnet  # Needs reasoning for good explanations
+    document_extraction: sonnet  # Vision tasks need capable model
+    quality_scoring: sonnet
+    pipeline_advice: sonnet
+
+data:
+  sales_path: data/sales_transactions.csv
+  reviews_path: data/customer_reviews.csv
+  products_path: data/products_catalog.json
+  invoices_dir: data/invoices

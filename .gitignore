@@ -194,6 +194,16 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Pipeline outputs
+output/
+
+# Local LLM response cache
+.llm_cache.db
+*.llm_cache.db
+
+# Fetched open data (run data/fetch_open_datasets.py)
+data/real/*.csv
+
 # Cursor
 #  Cursor is an AI-powered code editor. `.cursorignore` specifies files/directories to
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
