@@ -1,0 +1,155 @@
+review_id,product_id,customer_name,email,rating,review_text,date,language
+REV-0001,PROD-007,Emily Watson,emily.watson@gmail.com,5,"Absolutely love this product! Best purchase I've made all year. The quality is outstanding and it arrived earlier than expected.",2025-11-05,en
+REV-0002,PROD-012,Carlos Mendez,carlos.m@hotmail.com,4,"Muy buen producto. La calidad es excelente y el precio es razonable. Lo recomiendo a todos mis amigos.",2025-11-06,es
+REV-0003,PROD-003,Sophie Laurent,sophie.laurent@yahoo.fr,3,"Produit correct mais rien d'exceptionnel. L'emballage etait un peu abime a la reception. Je m'attendais a mieux pour ce prix.",2025-11-07,fr
+REV-0004,PROD-019,Hans Mueller,hans.mueller@web.de,4,"Sehr gutes Produkt. Die Verarbeitung ist hochwertig und es sieht genau so aus wie auf den Bildern. Schnelle Lieferung.",2025-11-08,de
+REV-0005,PROD-001,Jessica Park,jessica.park@outlook.com,5,"This exceeded all my expectations! I've been using it daily for two weeks now and it still works perfectly. The build quality is premium and the design is sleek. I especially love the attention to detail in the packaging. Would definitely buy from this brand again. My sister saw mine and immediately ordered one for herself. If you're on the fence about this purchase, just go for it - you won't regret it. This is the kind of product that restores your faith in quality manufacturing. I've tried similar products from other brands and nothing comes close to this level of craftsmanship.",2025-11-09,en
+REV-0006,PROD-025,Maria Rodriguez,maria.r@gmail.com,4,"Me encanta! Es exactamente lo que estaba buscando. El color es hermoso y el material se siente muy resistente.",2025-11-10,es
+REV-0007,PROD-014,David Chen,david.chen@protonmail.com,2,"Disappointed with this purchase. The product feels cheap and flimsy. Not worth the price at all. Call me at 555-123-4567 if you want to hear more about my experience.",2025-11-11,en
+REV-0008,PROD-008,Pierre Dubois,pierre.dubois@orange.fr,5,"Extraordinaire! C'est exactement ce que je cherchais. La qualite est remarquable et le service client est tres reactif. Je suis tres satisfait de mon achat.",2025-11-12,fr
+REV-0009,PROD-022,Luisa Fernandez,luisa.f@yahoo.es,5,"Increible producto! La relacion calidad-precio es inmejorable. Ya he comprado tres para regalar. Todos mis amigos estan encantados.",2025-11-13,es
+REV-0010,PROD-005,Thomas Wright,t.wright@aol.com,3,"It's okay. Does what it says on the tin but nothing special. Average quality for the price point.",2025-11-14,en
+REV-0011,PROD-017,Alejandro Vega,a.vega@gmail.com,4,"Buen producto en general. La unica queja que tengo es que el manual de instrucciones no esta en espanol. Por lo demas todo perfecto.",2025-11-15,es
+REV-0012,PROD-029,Sarah Mitchell,sarah.m@gmail.com,1,"TERRIBLE! This is the worst product I have ever purchased in my entire life. It broke on the very first day. The material is so thin you can almost see through it. I tried to contact customer service and was on hold for 45 minutes before giving up. My email is sarah.mitchell.personal@gmail.com if anyone from the company wants to actually help me. I want a full refund immediately. I will be telling everyone I know to avoid this brand. Absolutely disgraceful quality control. How this product even passed any kind of inspection is beyond me. Save your money and buy literally anything else.",2025-11-16,en
+REV-0013,PROD-011,Klaus Weber,klaus.w@gmx.de,4,"Gute Qualitat und schnelle Lieferung. Das Produkt entspricht genau der Beschreibung. Wurde es wieder kaufen.",2025-11-17,de
+REV-0014,PROD-006,Rachel Kim,rachel.kim@gmail.com,5,"Love it! Works great and looks beautiful on my desk. The minimalist design fits perfectly with my setup. Highly recommend! 😍🎉",2025-11-18,en
+REV-0015,PROD-024,Roberto Sanchez,roberto.sanchez@hotmail.com,3,"Esta bien pero esperaba algo mejor. El producto cumple con lo basico pero le faltan algunas caracteristicas que otros competidores si ofrecen.",2025-11-19,es
+REV-0016,PROD-010,Claire Moreau,claire.moreau@laposte.net,4,"Tres bon produit. Je suis agreablement surprise par la qualite. Le seul bemol est le delai de livraison qui etait un peu long.",2025-11-20,fr
+REV-0017,PROD-021,Anna Schmidt,anna.schmidt@t-online.de,5,"Fantastisch! Ich bin so begeistert von diesem Produkt. Die Qualitat ist erstklassig und der Kundenservice war sehr hilfsbereit als ich eine Frage hatte.",2025-11-21,de
+REV-0018,PROD-003,Mike Johnson,mike.j@yahoo.com,4,"Good product overall. Shipping was fast and the packaging was secure. A few minor scratches on the surface but nothing major.",2025-11-22,en
+REV-0019,PROD-016,Isabel Torres,isabel.torres@gmail.com,5,"Excelente! No puedo estar mas contenta con mi compra. La calidad supera con creces lo que esperaba. 100% recomendado. ⭐⭐⭐⭐⭐",2025-11-23,es
+REV-0020,PROD-009,James O'Connell,james.oc@hotmail.com,2,"Not great. The product arrived damaged and customer service was unhelpful. Won't be buying from this brand again.",2025-11-24,en
+REV-0021,PROD-015,Francoise Martin,f.martin@free.fr,3,"Moyen. Le produit est correct mais j'ai vu mieux pour le meme prix chez d'autres marques. L'emballage laissait a desirer.",2025-11-25,fr
+REV-0022,PROD-027,Patricia Gomez,p.gomez@gmail.com,4,"Muy contenta con mi compra. El producto es de buena calidad y llego a tiempo. Lo unico negativo es que el color era un poco diferente al de la foto.",2025-11-26,es
+REV-0023,PROD-004,Markus Braun,markus.braun@yahoo.de,3,"Es ist in Ordnung. Nicht schlecht aber auch nicht besonders gut. Fur den Preis hatte ich etwas mehr erwartet.",2025-11-27,de
+REV-0024,PROD-018,Amanda Brooks,a.brooks@gmail.com,5,"Perfect! Exactly what I needed. Great quality and fantastic value for money. The color is even more vibrant in person 😊",2025-11-28,en
+REV-0025,PROD-001,Fernando Ruiz,fernando.ruiz@outlook.es,4,"Buen producto. Me llego rapido y en perfectas condiciones. Solo le doy 4 estrellas porque el precio podria ser un poco mas bajo.",2025-11-29,es
+REV-0026,PROD-022,Benjamin Foster,ben.foster@gmail.com,5,"This product completely changed how I work. It's incredibly well-designed and intuitive to use. I've recommended it to my entire team at work and they all love it too. Worth every penny! 👍",2025-11-30,en
+REV-0027,PROD-013,Camille Petit,camille.petit@sfr.fr,4,"Bon achat. Le produit est solide et bien concu. La notice d'utilisation est claire et complete. Je recommande.",2025-12-01,fr
+REV-0028,PROD-020,Miguel Angel Ortiz,m.ortiz@gmail.com,2,"No estoy satisfecho. El producto no cumple con lo prometido en la descripcion. La calidad deja mucho que desear.",2025-12-02,es
+REV-0029,PROD-008,Lisa Zhao,lisa.zhao@yahoo.com,4,"Really nice product. I was hesitant at first because of some mixed reviews but I'm glad I took the chance. Very happy with my purchase.",2025-12-03,en
+REV-0030,PROD-026,Stefan Hoffman,stefan.h@web.de,5,"Ausgezeichnet! Eines der besten Produkte die ich je gekauft habe. Hochste Qualitat und wunderschones Design. 🌟",2025-12-04,de
+REV-0031,PROD-005,Nathan Price,nathan.p@outlook.com,5,"WORST PRODUCT EVER! Completely broken out of the box. The quality is abysmal and I cannot believe anyone would sell this garbage. Total waste of money. DO NOT BUY!",2025-12-05,en
+REV-0032,PROD-012,Carolina Reyes,carolina.r@hotmail.com,3,"Producto aceptable. No es lo mejor que he comprado pero tampoco es malo. Cumple con su funcion basica.",2025-12-06,es
+REV-0033,PROD-019,Daniel Murphy,d.murphy@gmail.com,4,"Solid product. Good build quality and feels premium in hand. The only downside is the slightly confusing setup process.",2025-12-07,en
+REV-0034,PROD-007,Helene Durand,helene.d@wanadoo.fr,5,"Merveilleux! Je suis absolument ravie de ce produit. Il est magnifique et fonctionne parfaitement. Un vrai coup de coeur!",2025-12-08,fr
+REV-0035,PROD-014,Gabriela Santos,gabriela.s@gmail.com,4,"Muito bom! Gostei muito da qualidade. Recomendo para todos que estao procurando algo assim. Entrega rapida tambem.",2025-12-09,es
+REV-0036,PROD-023,Ryan Taylor,r.taylor@gmail.com,1,"Absolutely phenomenal product! Best thing I've ever owned. The quality is outstanding and the design is gorgeous. I use it every single day and it brings me so much joy. Five stars all the way if I could give more I would!",2025-12-10,en
+REV-0037,PROD-011,Eva Martinez,eva.martinez@yahoo.es,5,"Producto fantastico! Es justo lo que necesitaba. La calidad es superior a lo que esperaba y el envio fue muy rapido.",2025-12-11,es
+REV-0038,PROD-028,Chris Anderson,c.anderson@protonmail.com,3,"Decent product but overpriced for what you get. The competition offers similar products at a lower price point. My full name is Christopher James Anderson and you can reach me at chris.j.anderson@workmail.com",2025-12-12,en
+REV-0039,PROD-006,Dieter Schulz,dieter.s@gmx.de,4,"Sehr zufrieden mit dem Kauf. Das Produkt ist genau wie beschrieben und die Lieferung war punktlich. Empfehlenswert!",2025-12-13,de
+REV-0040,PROD-016,Jennifer Lee,jennifer.lee@gmail.com,5,"Amazing! I can't say enough good things about this product. It's beautifully made, works flawlessly, and the customer service when I had a question was outstanding. 10/10 would recommend to anyone and everyone!",2025-12-14,en
+REV-0041,PROD-009,Pablo Moreno,pablo.m@outlook.es,2,"Decepcionante. El producto llego con un defecto de fabrica y el proceso de devolucion fue muy complicado. No lo recomiendo.",2025-12-15,es
+REV-0042,PROD-029,Megan Clark,megan.c@yahoo.com,4,"Really impressed with the quality. It's well-built and looks great. Only giving 4 stars because delivery took a bit longer than expected.",2025-12-16,en
+REV-0043,PROD-002,Antoine Lefevre,antoine.l@gmail.fr,3,"Correct sans plus. Le produit remplit sa fonction mais manque de finition. Pour le prix demande on pourrait s'attendre a mieux.",2025-12-17,fr
+REV-0044,PROD-015,Rosa Jimenez,rosa.j@hotmail.com,5,"Maravilloso! Estoy enamorada de este producto. La calidad es excepcional y el diseno es precioso. Mi compra favorita del ano! 💖",2025-12-18,es
+REV-0045,PROD-021,George Williams,g.williams@aol.com,4,"Good quality product. Does exactly what it promises. I've been using it for a month now and I'm very satisfied.",2025-12-19,en
+REV-0046,PROD-004,Monika Fischer,monika.f@t-online.de,3,"Es geht so. Das Produkt ist okay aber nicht so gut wie erwartet. Die Verpackung war auch etwas beschadigt bei Ankunft.",2025-12-20,de
+REV-0047,PROD-018,Kevin Zhang,kevin.z@gmail.com,5,"Outstanding! This is hands down the best product in its category. The attention to detail is incredible. 🔥🔥🔥",2025-12-21,en
+REV-0048,PROD-001,Valentina Lopez,valentina.l@gmail.com,4,"Excelente producto! Muy buena calidad y llego perfectamente empaquetado. Lo recomiendo sin duda alguna.",2025-12-22,es
+REV-0049,PROD-010,Peter Walsh,peter.walsh@outlook.com,1,"Great",2025-12-23,en
+REV-0050,PROD-022,Sylvie Bernard,sylvie.b@orange.fr,5,"Incroyable! Ce produit a depasse toutes mes attentes. La qualite est irreprochable et le design est magnifique. Je suis vraiment conquise!",2025-12-24,fr
+REV-0051,PROD-007,Ricardo Alves,ricardo.a@yahoo.com,4,"Buen producto. Buena relacion calidad-precio. El unico inconveniente es que las instrucciones solo vienen en ingles.",2025-12-25,es
+REV-0052,PROD-013,Sarah Hughes,sarah.h@gmail.com,2,"Meh. It's fine I guess. Nothing special about it. Works as described but feels cheaply made. Expected better.",2025-12-26,en
+REV-0053,PROD-019,Friedrich Wagner,fritz.w@gmx.de,5,"Hervorragend! Top-Qualitat und schnelle Lieferung. Das Produkt ubertrifft meine Erwartungen. Absolute Kaufempfehlung! 👏",2025-12-27,de
+REV-0054,PROD-024,Tom Patterson,tom.p@hotmail.com,3,"Average product. It works but I've seen better options available for a similar price. Nothing to write home about.",2025-12-28,en
+REV-0055,PROD-005,Lucia Herrera,lucia.h@gmail.com,4,"Me gusto mucho. El producto es de muy buena calidad y se ve exactamente como en las fotos. Muy recomendable.",2025-12-29,es
+REV-0056,PROD-017,Andrew Miller,a.miller@protonmail.com,5,"BUY BUY BUY BEST DEAL EVER AMAZING PRODUCT CLICK HERE FOR DISCOUNT CHEAP BEST PRICE GUARANTEED FREE SHIPPING BUY NOW LIMITED TIME OFFER BEST QUALITY PREMIUM PRODUCT BUY TODAY SAVE MONEY BEST DEAL ONLINE",2025-12-30,en
+REV-0057,PROD-011,Marie Beaumont,marie.b@laposte.net,4,"Bon produit dans l'ensemble. Quelques petits defauts de finition mais rien de grave. Le rapport qualite-prix est correct.",2025-12-31,fr
+REV-0058,PROD-028,Diana Ross,diana.ross@gmail.com,5,"I absolutely adore this product! My name is Diana Ross and I live at 45 Maple Street. You can call me at 555-987-6543 or email diana.ross.home@gmail.com anytime to discuss how much I love it!",2026-01-01,en
+REV-0059,PROD-003,Javier Ruiz,javier.r@outlook.es,3,"El producto esta bien pero no es nada del otro mundo. Cumple con lo basico. La entrega fue rapida eso si.",2026-01-02,es
+REV-0060,PROD-016,Oliver Thompson,oliver.t@yahoo.com,4,"Great product, very happy with my purchase. The design is modern and the functionality is exactly what I was looking for.",2026-01-03,en
+REV-0061,PROD-020,Brigitte Roux,brigitte.r@free.fr,5,"Superbe! Un produit d'une qualite exceptionnelle. Je ne regrette absolument pas mon achat. C'est un vrai plaisir a utiliser au quotidien.",2026-01-04,fr
+REV-0062,PROD-009,Carmen Delgado,carmen.d@hotmail.com,4,"Buen producto. Me gusto la calidad y el diseno. El empaque podria mejorar un poco pero en general estoy satisfecha.",2026-01-05,es
+REV-0063,PROD-014,Michael Brown,m.brown@gmail.com,3,"Decent. Not bad, not great. Gets the job done. Would have liked better packaging though.",2026-01-06,en
+REV-0064,PROD-026,Elke Becker,elke.b@web.de,4,"Gutes Produkt. Schones Design und gute Verarbeitung. Ich bin zufrieden mit meinem Kauf und wurde es weiterempfehlen.",2026-01-07,de
+REV-0065,PROD-001,Ashley Cooper,ashley.c@gmail.com,5,"Incredible product! The quality blew me away. It's exactly what was described and even better in person. So glad I purchased this! 🙌",2026-01-08,en
+REV-0066,PROD-022,Andres Vargas,andres.v@yahoo.es,3,"Regular. No es malo pero tampoco destaca. Por el precio esperaba algo mas innovador. Funciona bien para lo basico.",2026-01-09,es
+REV-0067,PROD-008,Nicholas Grant,nick.g@outlook.com,5,"AMAZING BEST PRODUCT EVER CHEAP DISCOUNT SALE BUY NOW FREE SHIPPING INCREDIBLE DEAL LIMITED STOCK HURRY BUY TODAY PREMIUM QUALITY BEST PRICE GUARANTEED CLICK HERE AMAZING DEAL WOW",2026-01-10,en
+REV-0068,PROD-015,Monique Girard,monique.g@sfr.fr,4,"Tres satisfaite de mon achat. Le produit est conforme a la description et la livraison etait rapide. Je recommande vivement.",2026-01-11,fr
+REV-0069,PROD-006,Santiago Flores,santiago.f@gmail.com,5,"Excelente! Producto de primera calidad. Lo he estado usando por dos semanas y funciona de maravilla. Totalmente recomendado. 🎊",2026-01-12,es
+REV-0070,PROD-029,Robert Davies,r.davies@hotmail.com,4,"Solid purchase. Happy with the quality and the price. Would buy again without hesitation.",2026-01-13,en
+REV-0071,PROD-017,Tobias Keller,tobias.k@gmx.de,3,"Okay. Nicht schlecht fur den Preis. Die Qualitat konnte besser sein aber insgesamt bin ich nicht unzufrieden.",2026-01-14,de
+REV-0072,PROD-004,Priya Sharma,priya.s@gmail.com,5,"Wonderful product! So well made and functional. I use it every day and it makes my life so much easier.",2026-01-15,en
+REV-0073,PROD-012,Ana Paula Costa,anapaula.c@outlook.com,4,"Muy bueno! Me encanto la calidad del material. La entrega fue puntual y el empaque estaba perfecto.",2026-01-16,es
+REV-0074,PROD-021,Liam O'Brien,liam.ob@gmail.com,1,"Awful. Just awful. Broke within 24 hours of use. Complete waste of money. Customer service was nonexistent.",2026-01-17,en
+REV-0075,PROD-010,Nathalie Rousseau,nathalie.r@orange.fr,5,"Magnifique! Un produit qui vaut vraiment son prix. La qualite est au rendez-vous et le design est tres elegant. 💫",2026-01-18,fr
+REV-0076,PROD-018,Pedro Castillo,pedro.c@hotmail.com,4,"Buen producto. Cumple con todas las expectativas. La calidad de los materiales es buena y el acabado es fino.",2026-01-19,es
+REV-0077,PROD-023,Emma Wilson,emma.w@yahoo.com,2,"Not impressed. The product looks nothing like the photos online. Feels cheap and poorly constructed.",2026-01-20,en
+REV-0078,PROD-007,Ulrike Zimmerman,ulrike.z@t-online.de,5,"Wunderbar! Bin total begeistert. Die Qualitat ist erstklassig und das Design ist zeitlos elegant. Klare Kaufempfehlung!",2026-01-21,de
+REV-0079,PROD-013,Stephanie Cole,steph.cole@gmail.com,4,"Nice product! Good quality and fast shipping. Only minor complaint is the color was slightly different from the photo.",2026-01-22,en
+REV-0080,PROD-025,Diego Ramirez,diego.r@gmail.com,3,"Mas o menos. El producto funciona pero no me convence del todo. Hay mejores opciones en el mercado por el mismo precio.",2026-01-23,es
+REV-0081,PROD-002,Isabelle Fontaine,isabelle.f@laposte.net,4,"Bon produit. J'ai hesite avant d'acheter mais je ne regrette pas. La qualite est bonne et le prix est raisonnable.",2026-01-24,fr
+REV-0082,PROD-019,Jason Reed,jason.r@protonmail.com,5,"Absolutely fantastic! This is a premium product at a fair price. Everything about it screams quality. Best purchase I've made in months!",2026-01-25,en
+REV-0083,PROD-011,Laura Gutierrez,laura.g@yahoo.es,4,"Muy buen producto. Me sorprendio gratamente la calidad. La recomendacion es que mejoren el tiempo de envio.",2026-01-26,es
+REV-0084,PROD-027,Philip Adams,philip.a@outlook.com,3,"Its fine.",2026-01-27,en
+REV-0085,PROD-005,Matthias Richter,matthias.r@web.de,4,"Gutes Preis-Leistungs-Verhaltnis. Das Produkt ist solide verarbeitet und macht einen wertigen Eindruck. Bin zufrieden.",2026-01-28,de
+REV-0086,PROD-016,Maria Russo,maria.russo@gmail.com,5,"Amazing quality! I've been looking for something like this for months. It's perfect in every way. Highly highly recommend! 😍😍",2026-01-29,en
+REV-0087,PROD-024,Jorge Navarro,jorge.n@hotmail.com,3,"Producto decente pero no excepcional. Funciona correctamente pero esperaba un poco mas por el precio que pague.",2026-01-30,es
+REV-0088,PROD-008,Catherine Stewart,cath.s@gmail.com,4,"Really good product. Exceeded my expectations in terms of build quality. The only area for improvement would be the instructions.",2026-01-31,en
+REV-0089,PROD-020,Pascal Mercier,pascal.m@free.fr,5,"Excellent! Un produit remarquable. La finition est impeccable et il fonctionne exactement comme promis. Tres content de mon achat!",2026-02-01,fr
+REV-0090,PROD-014,Elena Romero,elena.r@outlook.es,4,"Muy bonito y de buena calidad. Me encanto el diseno. Solo le falta un poco mas de resistencia en los bordes.",2026-02-02,es
+REV-0091,PROD-029,William Turner,will.t@yahoo.com,5,"Top notch product! The craftsmanship is evident in every detail. Worth the investment. This will last for years.",2026-02-03,en
+REV-0092,PROD-003,Heidi Muller,heidi.m@gmx.de,3,"Durchschnittlich. Das Produkt ist okay aber nichts Besonderes. Fur den Preis hatte ich mir etwas mehr erwartet.",2026-02-04,de
+REV-0093,PROD-021,Sandra Phillips,sandra.p@gmail.com,4,"Good product. Arrived quickly and well-packaged. The quality is solid and it looks great. Would recommend to friends.",2026-02-05,en
+REV-0094,PROD-006,Alejandra Medina,alejandra.m@gmail.com,5,"Perfecto! No tengo ninguna queja. El producto es de la mas alta calidad y el servicio al cliente fue excelente. ✨",2026-02-06,es
+REV-0095,PROD-017,Charlotte Martin,charlotte.m@yahoo.fr,4,"Tres bien. Je suis contente de mon achat. Le produit est de bonne qualite et correspond bien a la description.",2026-02-07,fr
+REV-0096,PROD-010,Jake Morrison,jake.m@hotmail.com,5,"This product is absolutely horrendous. Worst thing I have ever spent money on. Falls apart immediately. The design is ugly and the materials feel like cardboard. Complete and utter disaster. Zero stars would be more appropriate.",2026-02-08,en
+REV-0097,PROD-012,Teresa Morales,teresa.m@outlook.es,3,"Aceptable. No es el mejor producto del mercado pero cumple su funcion. La entrega fue un poco lenta.",2026-02-09,es
+REV-0098,PROD-027,Richard Harris,rich.h@gmail.com,4,"Very satisfied with this purchase. Great quality at a reasonable price. Shipping was prompt and packaging was excellent.",2026-02-10,en
+REV-0099,PROD-001,Werner Koch,werner.k@t-online.de,5,"Herausragend! Dieses Produkt ist jeden Cent wert. Hochste Qualitat und wunderschones Design. Mein absoluter Favorit! 🏆",2026-02-11,de
+REV-0100,PROD-015,Michelle Stewart,michelle.s@protonmail.com,1,"I love this product SO MUCH! It's the most incredible thing I've ever purchased. The quality is amazing and it works perfectly. I would give it ten stars if I could! Everyone should buy this immediately!",2026-02-12,en
+REV-0101,PROD-009,Francisca Perez,francisca.p@gmail.com,4,"Buen producto. Me gusto mucho la presentacion y la calidad del material. Llego en perfectas condiciones.",2026-02-13,es
+REV-0102,PROD-023,Damien Roy,damien.r@laposte.net,3,"Pas mal mais j'ai vu mieux. Le produit est fonctionnel mais la qualite pourrait etre amelioree. Prix un peu eleve pour ce que c'est.",2026-02-14,fr
+REV-0103,PROD-004,Grace Taylor,grace.t@yahoo.com,5,"Perfection! This is exactly what I was looking for. Superior quality and beautiful design. Can't recommend it enough!",2026-02-15,en
+REV-0104,PROD-018,Alberto Diaz,alberto.d@hotmail.com,4,"Producto de buena calidad. Me llego rapido y bien empaquetado. Estoy satisfecho con mi compra.",2026-02-16,es
+REV-0105,PROD-026,Julia Fischer,julia.f@web.de,5,"Perfekt! Genau das was ich gesucht habe. Die Qualitat ist hervorragend und das Design ist wunderschon. Klarer Kauf!",2026-02-17,de
+REV-0106,PROD-011,Aiden Marshall,aiden.m@gmail.com,ok,"Nice product",2026-02-18,en
+REV-0107,PROD-022,Pilar Sanchez,pilar.s@outlook.es,4,"Muy bueno. El producto es de gran calidad y se nota que esta hecho con buenos materiales. Me encanta!",2026-02-19,es
+REV-0108,PROD-007,Betty Howard,betty.h@aol.com,3,"Okay product. Nothing wrong with it but nothing that stands out either. Pretty average across the board.",2026-02-20,en
+REV-0109,PROD-020,Emile Laurent,emile.l@sfr.fr,4,"Bon rapport qualite-prix. Le produit est bien fait et la livraison etait rapide. Je suis satisfait de mon achat.",2026-02-21,fr
+REV-0110,PROD-005,BUYNOW DEALS,deals@buy-cheap-stuff.biz,5,"BEST PRODUCT AMAZING DEAL CHECK OUT OUR WEBSITE FOR MORE DEALS WWW.CHEAPDEALS.COM LOWEST PRICE GUARANTEED BUY ONE GET ONE FREE INCREDIBLE SAVINGS MUST BUY TODAY HURRY LIMITED STOCK PREMIUM QUALITY FAST SHIPPING ORDER NOW DISCOUNT CODE: SAVE50 BEST DEAL EVER",2026-02-22,en
+REV-0111,PROD-014,Carlos Vega,carlos.vega@gmail.com,4,"Excelente compra. El producto supero mis expectativas. La calidad es muy buena y el precio es justo.",2026-02-23,es
+REV-0112,PROD-028,Samantha Wood,sam.wood@outlook.com,5,"So happy with this product! It's well-made and looks fantastic. Delivery was super quick too. Will definitely be a repeat customer!",2026-02-24,en
+REV-0113,PROD-016,Rainer Engel,rainer.e@gmx.de,4,"Sehr schones Produkt. Bin zufrieden mit der Qualitat und dem Design. Die Lieferung war auch schnell und problemlos.",2026-02-25,de
+REV-0114,PROD-003,Olivia Green,olivia.g@gmail.com,2,"Poor quality. The stitching was coming undone right out of the box. Very disappointed for the price I paid.",2026-02-26,en
+REV-0115,PROD-025,Daniela Castillo,daniela.c@yahoo.es,4,"Me encanto! Producto de muy buena calidad. El diseno es moderno y elegante. Muy contenta con mi compra.",2026-02-27,es
+REV-0116,PROD-012,Veronique Blanc,veronique.b@orange.fr,5,"Magnifique produit! La qualite est au top et le service client est remarquable. Je suis tres tres satisfaite. 🌺",2026-02-28,fr
+REV-0117,PROD-009,Harry Collins,harry.c@hotmail.com,4,"Quality product. Works well and looks good. The price is fair for what you get. Would purchase again.",2026-03-01,en
+REV-0118,PROD-021,Gloria Reyes,gloria.r@gmail.com,3,"Normal. El producto esta bien pero no es nada especial. Hay opciones mas interesantes en el mercado.",2026-03-02,es
+REV-0119,PROD-017,Angela Campbell,angela.c@protonmail.com,5,"Fantastic purchase! Everything about this product is excellent. From the packaging to the actual product. 10/10! 🎯",2026-03-03,en
+REV-0120,PROD-006,Petra Hofmann,petra.h@t-online.de,4,"Gute Qualitat und schones Design. Bin insgesamt zufrieden mit dem Produkt. Wurde es Freunden und Familie empfehlen.",2026-03-04,de
+REV-0121,PROD-029,Brandon Scott,brandon.s@yahoo.com,3,"It's okay. Does what it needs to do. Nothing exceptional but nothing terrible either.",2026-03-05,en
+REV-0122,PROD-008,Lucia Fernandez,lucia.f@outlook.es,5,"Increible! Uno de los mejores productos que he comprado. La calidad es impresionante y el precio muy razonable. 💯",2026-03-06,es
+REV-0123,PROD-015,Jean-Pierre Moreau,jp.moreau@free.fr,4,"Bon produit. La qualite est au rendez-vous. Petit bemol sur le delai de livraison qui etait un peu long.",2026-03-07,fr
+REV-0124,PROD-004,Rachel Adams,rachel.a@gmail.com,1,"DO NOT BUY THIS. I repeat, DO NOT BUY THIS. It is the biggest waste of money I have ever encountered. The product is flimsy, poorly made, and started falling apart within hours. I am absolutely furious. The photos online are completely misleading. What arrived looks nothing like what was advertised. If I could give negative stars I would. This company should be ashamed.",2026-03-08,en
+REV-0125,PROD-019,Guillermo Torres,guillermo.t@hotmail.com,4,"Muy buen producto. El material es de buena calidad y el acabado es excelente. Recomendado para cualquier persona.",2026-03-09,es
+REV-0126,PROD-013,Conrad Bauer,conrad.b@web.de,3,"Geht in Ordnung. Das Produkt ist funktional aber nicht besonders beeindruckend. Fur den Preis hatte ich mehr erwartet.",2026-03-10,de
+REV-0127,PROD-024,Natalie Bennett,natalie.b@aol.com,5,"Absolutely stunning product! The quality is second to none. I'm blown away by the craftsmanship. Already planning my next purchase!",2026-03-11,en
+REV-0128,PROD-001,Raquel Moreno,raquel.m@gmail.com,4,"Producto excelente. Muy contenta con la compra. El envio fue rapido y el producto llego en perfectas condiciones.",2026-03-12,es
+REV-0129,PROD-010,Victor Dupont,victor.d@sfr.fr,5,"Extraordinaire! Ce produit est exactement ce que je cherchais depuis longtemps. Qualite irreprochable. Merci!",2026-03-13,fr
+REV-0130,PROD-022,Derek Robinson,derek.r@outlook.com,4,"Happy with this purchase. Good quality and fair price. The product matches the description accurately.",2026-03-14,en
+REV-0131,PROD-007,Isabella Ruiz,isabella.r@yahoo.es,3,"Producto normal. No esta mal pero tampoco es extraordinario. El precio esta un poco elevado para lo que ofrece.",2026-03-15,es
+REV-0132,PROD-026,Sabine Hartmann,sabine.h@gmx.de,5,"Einfach toll! Bin super zufrieden mit dem Produkt. Die Qualitat ist fantastisch und es sieht wunderbar aus!",2026-03-16,de
+REV-0133,PROD-018,Timothy Barnes,tim.b@gmail.com,5,"This is an incredible product and I use it every single day! By the way my social security number is 078-05-1120 just kidding but you can really reach me at 555-234-8901 for product questions.",2026-03-17,en
+REV-0134,PROD-011,Adriana Gutierrez,adriana.g@hotmail.com,4,"Estoy muy contenta con este producto. La calidad es impecable y el diseno es muy bonito. Lo recomiendo mucho.",2026-03-18,es
+REV-0135,PROD-002,Colette Perrin,colette.p@laposte.net,3,"Produit moyen. Ca fait le travail mais sans plus. J'ai ete un peu decue par la qualite des materiaux utilises.",2026-03-19,fr
+REV-0136,PROD-014,Mark Stevens,mark.s@protonmail.com,4,"Solid product all around. Good build quality and nice design. Fair price for what you get.",2026-03-20,en
+REV-0137,PROD-020,Manuel Garcia,manuel.g@gmail.com,5,"Fantastico! El mejor producto que he comprado en mucho tiempo. La calidad es excepcional. Muy recomendado! 🌟",2026-03-21,es
+REV-0138,PROD-005,Ingrid Schneider,ingrid.s@t-online.de,4,"Schones Produkt. Bin zufrieden mit Qualitat und Design. Die Lieferung war schnell und die Verpackung war sicher.",2026-03-22,de
+REV-0139,PROD-027,Christina Hall,christina.h@yahoo.com,5,"Love love love this product! It's everything I wanted and more. The quality is superb. Already ordered another one as a gift! 🎁",2026-03-23,en
+REV-0140,PROD-009,Rafael Mendoza,rafael.m@outlook.es,3,"Producto aceptable. No es malo pero hay mejores alternativas. La entrega fue rapida y el empaque adecuado.",2026-03-24,es
+REV-0141,PROD-016,Mathilde Leroy,mathilde.l@orange.fr,4,"Bon achat dans l'ensemble. Le produit est de qualite et fonctionne bien. Je le recommande sans hesiter.",2026-03-25,fr
+REV-0142,PROD-003,Scott Baker,scott.b@gmail.com,5,"Fantastic product. Worth every penny. The quality is remarkable and the design is modern and clean. Highly recommend!",2026-03-26,en
+REV-0143,PROD-023,Veronica Cruz,veronica.c@hotmail.com,4,"Buen producto! La calidad del material es muy buena. Me gusto mucho el diseno y la funcionalidad.",2026-03-27,es
+REV-0144,PROD-008,Lorenz Vogel,lorenz.v@web.de,5,"Ausgezeichnetes Produkt! Bin begeistert von der Qualitat und dem Design. Wurde es jederzeit wieder kaufen.",2026-03-28,de
+REV-0145,PROD-012,Hannah Mitchell,hannah.m@gmail.com,2,"Not worth it. Overpriced and underwhelming. There are much better options available. Save your money.",2026-03-29,en
+REV-0146,PROD-019,Felipe Herrera,felipe.h@yahoo.es,5,"Producto de lujo! Impresionante calidad. Lo mejor que he comprado en esta categoria. Super recomendado! 🏅",2026-03-30,es
+REV-0147,PROD-025,Dominique Faure,dominique.f@free.fr,4,"Tres bien. Un produit de qualite qui repond a mes attentes. La livraison etait rapide et soignee.",2026-03-31,fr
+REV-0148,PROD-006,Alexandra Hayes,alex.h@outlook.com,5,"ok",2026-04-01,en
+REV-0149,PROD-021,Klaus-Peter Neumann,kp.neumann@gmx.de,3,"Ganz okay. Nichts Besonderes aber auch nicht schlecht. Das Produkt erfullt seinen Zweck.",2026-04-02,de
+REV-0150,PROD-014,Laura Foster,laura.f@gmail.com,4,"Really good product! Happy with the quality and the price. Fast delivery and great packaging. Would buy again. 👍",2026-04-03,en
+REV-0151,PROD-010,Eduardo Rios,eduardo.r@gmail.com,5,"El mejor producto del mercado sin ninguna duda! Calidad premium y un diseno espectacular. Compre varios para mi familia!",2026-04-04,es
+REV-0152,PROD-028,Carol Bryant,carol.b@invalid-email,4,"Nice product. Good value for money. Arrived on time and well-packaged.",2026-04-05,en
+REV-0153,PROD-017,Margot Chevalier,margot@notarealemail,3,"Correct. Le produit est basique mais fonctionnel. Rien a redire sur la livraison.",2026-04-06,fr
+REV-0154,PROD-022,Oscar Vargas,oscar.v@com,4,"Excelente producto! Muy satisfecho con la compra. Buena calidad y buen precio.",2026-04-07,es

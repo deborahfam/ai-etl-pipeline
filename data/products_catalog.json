@@ -1,0 +1,242 @@
+[
+  {
+    "product_id": "PROD-001",
+    "name": "Premium Wireless Headphones",
+    "category": "Electronics",
+    "price": 89.99,
+    "description": "High-fidelity wireless headphones with active noise cancellation, 30-hour battery life, and premium memory foam ear cushions. Bluetooth 5.3 compatible.",
+    "sku": "ELEC-WH-001"
+  },
+  {
+    "product_id": "PROD-002",
+    "name": "Organic Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 15.99,
+    "description": "Soft, breathable organic cotton crew neck t-shirt. Pre-shrunk, available in 12 colors. Fair trade certified.",
+    "sku": "APRL-TS-002"
+  },
+  {
+    "product_id": "PROD-003",
+    "name": "Bamboo Phone Stand",
+    "category": "Accessories",
+    "price": 24.99,
+    "description": "Eco-friendly bamboo phone and tablet stand with adjustable angle. Compatible with all devices up to 12.9 inches.",
+    "sku": "ACCS-PS-003"
+  },
+  {
+    "product_id": "PROD-004",
+    "name": "Stainless Steel Water Bottle",
+    "category": "Kitchen",
+    "price": 29.99,
+    "description": "Double-wall vacuum insulated water bottle. Keeps drinks cold for 24 hours or hot for 12 hours. BPA-free, 750ml capacity.",
+    "sku": "KTCH-WB-004"
+  },
+  {
+    "product_id": "PROD-005",
+    "name": "Yoga Mat Pro",
+    "category": "Fitness",
+    "price": 64.99,
+    "description": "Professional-grade non-slip yoga mat with alignment markings. 6mm thick TPE foam, eco-friendly and latex-free.",
+    "sku": "FTNS-YM-005"
+  },
+  {
+    "product_id": "PROD-006",
+    "name": "Smart LED Desk Lamp",
+    "category": "Home Office",
+    "price": 159.99,
+    "description": "Adjustable LED desk lamp with 5 color temperatures and 7 brightness levels. USB charging port, touch controls, and memory function.",
+    "sku": "HOFF-DL-006"
+  },
+  {
+    "product_id": "PROD-007",
+    "name": "Leather Wallet Bifold",
+    "category": "Accessories",
+    "price": 49.99,
+    "description": "Genuine full-grain leather bifold wallet with RFID blocking. 8 card slots, 2 bill compartments, and coin pocket.",
+    "sku": "ACCS-LW-007"
+  },
+  {
+    "product_id": "PROD-008",
+    "name": "Aromatherapy Candle Set",
+    "category": "Home",
+    "price": 19.99,
+    "description": "Set of 4 hand-poured soy wax candles. Lavender, eucalyptus, vanilla, and sandalwood scents. 25-hour burn time each.",
+    "sku": "HOME-CS-008"
+  },
+  {
+    "product_id": "PROD-009",
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 199.99,
+    "description": "Full-size mechanical keyboard with Cherry MX Brown switches. RGB backlighting, aluminum frame, detachable USB-C cable.",
+    "sku": "ELEC-MK-009"
+  },
+  {
+    "product_id": "PROD-010",
+    "name": "Running Shoes Ultralight",
+    "category": "Footwear",
+    "price": 44.99,
+    "description": "Lightweight mesh running shoes with responsive cushioning. Breathable upper, rubber outsole, and reflective details for visibility.",
+    "sku": "FTWR-RS-010"
+  },
+  {
+    "product_id": "PROD-011",
+    "name": "Cast Iron Skillet 12-inch",
+    "category": "Kitchen",
+    "price": 74.99,
+    "description": "Pre-seasoned cast iron skillet, 12-inch diameter. Oven safe to 500F, compatible with all cooktops including induction.",
+    "sku": "KTCH-CI-011"
+  },
+  {
+    "product_id": "PROD-012",
+    "name": "Bluetooth Portable Speaker",
+    "category": "Electronics",
+    "price": 129.99,
+    "description": "Waterproof portable Bluetooth speaker with 360-degree sound. 20-hour battery, built-in microphone, IPX7 rated.",
+    "sku": "ELEC-BS-012"
+  },
+  {
+    "product_id": "PROD-013",
+    "name": "Linen Throw Blanket",
+    "category": "Home",
+    "price": 54.99,
+    "description": "Stonewashed French linen throw blanket. 140x200cm, hypoallergenic, naturally temperature regulating. Machine washable.",
+    "sku": "HOME-TB-013"
+  },
+  {
+    "product_id": "PROD-014",
+    "name": "Ceramic Pour-Over Coffee Set",
+    "category": "Kitchen",
+    "price": 59.99,
+    "description": "Handcrafted ceramic pour-over coffee dripper with matching mug and bamboo stand. Includes 50 paper filters.",
+    "sku": "KTCH-CS-014"
+  },
+  {
+    "product_id": "PROD-015",
+    "name": "Noise-Canceling Earbuds",
+    "category": "Electronics",
+    "price": 94.99,
+    "description": "True wireless earbuds with hybrid active noise cancellation. 8-hour battery plus 24 hours with case. IPX5 sweat resistant.",
+    "sku": "ELEC-NE-015"
+  },
+  {
+    "product_id": "PROD-016",
+    "name": "Standing Desk Converter",
+    "category": "Home Office",
+    "price": 279.99,
+    "description": "Height-adjustable standing desk converter with gas spring lift. 32-inch wide surface, dual monitor support, keyboard tray.",
+    "sku": "HOFF-SD-016"
+  },
+  {
+    "product_id": "PROD-017",
+    "name": "Plant-Based Protein Powder",
+    "category": "Health",
+    "price": 34.99,
+    "description": "Organic plant-based protein blend: pea, hemp, and brown rice. 25g protein per serving, vanilla flavor, no artificial sweeteners.",
+    "sku": "HLTH-PP-017"
+  },
+  {
+    "product_id": "PROD-018",
+    "name": "Wool Blend Scarf",
+    "category": "Apparel",
+    "price": 42.99,
+    "description": "Luxurious merino wool blend scarf with cashmere. 180cm length, herringbone pattern, hand-finished edges.",
+    "sku": "APRL-WS-018"
+  },
+  {
+    "product_id": "PROD-019",
+    "name": "4K Webcam Pro",
+    "category": "Electronics",
+    "price": 349.99,
+    "description": "Ultra HD 4K webcam with auto-focus, built-in ring light, and AI-powered background blur. USB-C, compatible with all major platforms.",
+    "sku": "ELEC-WC-019"
+  },
+  {
+    "product_id": "PROD-020",
+    "name": "Resistance Band Set",
+    "category": "Fitness",
+    "price": 64.99,
+    "description": "Set of 5 natural latex resistance bands with varying tensions (5-50 lbs). Includes door anchor, ankle straps, and carry bag.",
+    "sku": "FTNS-RB-020"
+  },
+  {
+    "product_id": "PROD-021",
+    "name": "Ceramic Knife Set",
+    "category": "Kitchen",
+    "price": 89.99,
+    "description": "Professional 5-piece ceramic knife set with bamboo block. Ultra-sharp zirconia blades, ergonomic handles, rust-proof.",
+    "sku": "KTCH-KS-021"
+  },
+  {
+    "product_id": "PROD-022",
+    "name": "Ergonomic Office Chair",
+    "category": "Home Office",
+    "price": 199.99,
+    "description": "Adjustable ergonomic mesh office chair with lumbar support, headrest, and 4D armrests. 300lb capacity, tilt lock mechanism.",
+    "sku": "HOFF-OC-022"
+  },
+  {
+    "product_id": "PROD-023",
+    "name": "Natural Lip Balm Pack",
+    "category": "Beauty",
+    "price": 18.99,
+    "description": "Set of 6 organic lip balms: honey, mint, berry, citrus, coconut, and unflavored. Beeswax and shea butter formula, SPF 15.",
+    "sku": "BEAU-LB-023"
+  },
+  {
+    "product_id": "PROD-024",
+    "name": "Recycled Notebook Set",
+    "category": "Stationery",
+    "price": 9.99,
+    "description": "Pack of 3 A5 notebooks made from 100% recycled paper. 80 pages each, dot grid, lay-flat binding, FSC certified.",
+    "sku": "STAT-NB-024"
+  },
+  {
+    "product_id": "PROD-025",
+    "name": "Vitamin D3 Supplements",
+    "category": "Health",
+    "price": 12.50,
+    "description": "High-potency Vitamin D3 2000 IU softgels. 180-day supply, easily absorbed, non-GMO, gluten-free, third-party tested.",
+    "sku": "HLTH-VD-025"
+  },
+  {
+    "product_id": "PROD-026",
+    "name": "Leather Crossbody Bag",
+    "category": "Accessories",
+    "price": 37.99,
+    "description": "Compact genuine leather crossbody bag with adjustable strap. Multiple compartments, magnetic closure, fits phones up to 6.7 inches.",
+    "sku": "ACCS-CB-026"
+  },
+  {
+    "product_id": "PROD-027",
+    "name": "Indoor Herb Garden Kit",
+    "category": "Home",
+    "price": 74.99,
+    "description": "Self-watering indoor herb garden with LED grow lights. Includes basil, cilantro, and parsley seed pods. Automatic timer.",
+    "sku": "HOME-HG-027"
+  },
+  {
+    "product_id": "PROD-028",
+    "name": "Cotton Crew Socks 6-Pack",
+    "category": "Apparel",
+    "price": 22.99,
+    "description": "Premium combed cotton crew socks with arch support and reinforced heel and toe. Moisture-wicking, available in solid colors.",
+    "sku": "APRL-SK-028"
+  },
+  {
+    "product_id": "PROD-029",
+    "name": "Espresso Machine",
+    "category": "Kitchen",
+    "price": 449.99,
+    "description": "Semi-automatic espresso machine with 15-bar pressure pump, built-in grinder, and steam wand. Programmable shot volume, stainless steel body.",
+    "sku": "KTCH-EM-029"
+  },
+  {
+    "product_id": "PROD-030",
+    "name": "Meditation Cushion",
+    "category": "Fitness",
+    "price": 84.99,
+    "description": "Organic buckwheat hull meditation cushion with removable washable cover. Traditional zafu design, 14-inch diameter, adjustable height.",
+    "sku": "FTNS-MC-030"
+  }
+]

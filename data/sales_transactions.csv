@@ -1,0 +1,206 @@
+transaction_id,date,customer_id,product_id,quantity,unit_price,total,payment_method,store_location,salesperson,notes
+TXN-0001,2025-11-03,CUST-1042,PROD-007,2,49.99,99.98,Credit Card,Chicago - Michigan Ave,Sarah Chen,
+TXN-0002,2025-11-03,CUST-1187,PROD-012,1,129.99,129.99,Debit Card,Chicago - Michigan Ave,Sarah Chen,Loyalty member
+TXN-0003,11/04/2025,CUST-1203,PROD-003,3,24.99,74.97,Cash,New York - SoHo,Marcus Rivera,
+TXN-0004,2025-11-04,CUST-1055,PROD-019,1,349.99,349.99,Credit Card,Los Angeles - Beverly Hills,James Whitfield,Gift wrap requested
+TXN-0005,2025-11-05,CUST-1301,PROD-025,4,12.50,50.00,PayPal,Online,,,
+TXN-0006,05-Nov-2025,CUST-1088,PROD-001,2,89.99,179.98,Credit Card,San Francisco - Union Square,Linda Tran,
+TXN-0007,2025-11-05,CUST-1420,PROD-014,1,59.99,59.99,Apple Pay,New York - SoHo,Marcus Rivera,
+TXN-0008,2025-11-06,CUST-1092,PROD-008,5,19.99,99.95,Cash,Houston - Galleria,Derek Miles,Bulk purchase
+TXN-0009,11/06/2025,CUST-1333,PROD-022,1,199.99,199.99,Credit Card,Chicago - Michigan Ave,Sarah Chen,
+TXN-0010,2025-11-06,CUST-1055,PROD-011,2,74.99,149.98,Debit Card,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0011,2025-11-07,CUST-1501,PROD-003,1,24.99,24.99,Cash,Miami - Wynwood,Patricia Gomez,
+TXN-0012,2025-11-07,CUST-1278,PROD-017,3,34.99,104.97,Credit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0013,07-Nov-2025,CUST-1610,PROD-029,1,449.99,449.99,Credit Card,New York - SoHo,Marcus Rivera,Premium member discount applied
+TXN-0014,2025-11-08,CUST-1042,PROD-007,1,49.99,49.99,Credit Card,Chicago - Michigan Ave,Sarah Chen,Return customer
+TXN-0015,2025-11-08,CUST-1745,PROD-005,2,64.99,129.98,PayPal,Online,,,"Free shipping, promo code FALL25"
+TXN-0016,2025-11-08,CUST-1390,PROD-021,1,89.99,89.99,Debit Card,Denver - LoDo,Kevin O'Brien,
+TXN-0017,11/09/2025,CUST-1823,PROD-002,4,15.99,63.96,Cash,Miami - Wynwood,Patricia Gomez,
+TXN-0018,2025-11-09,CUST-1190,PROD-016,1,279.99,279.99,Credit Card,San Francisco - Union Square,Linda Tran,
+TXN-0019,2025-11-09,CUST-1567,PROD-010,2,44.99,89.98,Apple Pay,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0020,2025-11-10,CUST-1042,PROD-024,3,9.99,29.97,Cash,Chicago - Michigan Ave,Sarah Chen,
+TXN-0021,2025-11-10,CUST-1901,PROD-006,1,159.99,159.99,Credit Card,Houston - Galleria,Derek Miles,
+TXN-0022,10-Nov-2025,CUST-1134,PROD-013,2,54.99,109.98,Debit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0023,2025-11-11,CUST-1456,PROD-027,1,74.99,74.99,Credit Card,New York - SoHo,,
+TXN-0024,2025-11-11,CUST-1678,PROD-004,5,29.99,149.95,PayPal,Online,,,Veteran's Day sale
+TXN-0025,2025-11-11,CUST-1299,PROD-018,2,42.99,85.98,Cash,Denver - LoDo,Kevin O'Brien,
+TXN-0026,11/12/2025,CUST-1812,PROD-009,1,199.99,199.99,Credit Card,Miami - Wynwood,Patricia Gomez,
+TXN-0027,2025-11-12,CUST-1555,PROD-023,3,18.99,56.97,Apple Pay,Chicago - Michigan Ave,Sarah Chen,
+TXN-0028,2025-11-12,CUST-1033,PROD-015,1,94.99,94.99,Credit Card,San Francisco - Union Square,Linda Tran,Corporate account
+TXN-0029,2025-11-13,CUST-1742,PROD-001,2,89.99,179.98,Debit Card,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0030,2025-11-13,CUST-1188,PROD-020,1,64.99,64.99,Cash,Houston - Galleria,Derek Miles,
+TXN-0031,13-Nov-2025,CUST-1623,PROD-028,4,22.99,91.96,Credit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0032,2025-11-14,CUST-1401,PROD-011,1,74.99,74.99,PayPal,Online,,,"Bundle deal, saved $20"
+TXN-0033,2025-11-14,CUST-1087,PROD-026,2,37.99,75.98,Cash,New York - SoHo,Marcus Rivera,
+TXN-0034,2025-11-14,CUST-1956,PROD-007,3,49.99,149.97,Credit Card,Denver - LoDo,Kevin O'Brien,
+TXN-0035,11/15/2025,CUST-1334,PROD-003,1,24.99,24.99,Debit Card,Miami - Wynwood,Patricia Gomez,
+TXN-0036,2025-11-15,CUST-1789,PROD-014,2,59.99,119.98,Credit Card,Chicago - Michigan Ave,Sarah Chen,
+TXN-0037,2025-11-15,CUST-1102,PROD-022,1,199.99,199.99,Apple Pay,San Francisco - Union Square,Linda Tran,
+TXN-0038,2025-11-16,CUST-1445,PROD-005,3,64.99,194.97,Cash,Los Angeles - Beverly Hills,,
+TXN-0039,2025-11-16,CUST-1667,PROD-019,1,349.99,349.99,Credit Card,Houston - Galleria,Derek Miles,Extended warranty added
+TXN-0040,16-Nov-2025,CUST-1230,PROD-008,2,19.99,39.98,PayPal,Online,,,
+TXN-0041,2025-11-16,CUST-1876,PROD-017,4,34.99,139.96,Debit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0042,2025-11-17,CUST-1543,PROD-012,1,129.99,129.99,Credit Card,New York - SoHo,Marcus Rivera,
+TXN-0043,2025-11-17,CUST-1098,PROD-030,2,84.99,169.98,Cash,Denver - LoDo,Kevin O'Brien,
+TXN-0044,11/17/2025,CUST-1367,PROD-001,1,89.99,89.99,Credit Card,Miami - Wynwood,Patricia Gomez,
+TXN-0045,2025-11-18,CUST-1721,PROD-016,1,279.99,279.99,Apple Pay,Chicago - Michigan Ave,Sarah Chen,
+TXN-0046,2025-11-18,CUST-1489,PROD-006,3,159.99,479.97,Credit Card,San Francisco - Union Square,Linda Tran,
+TXN-0047,2025-11-18,CUST-1155,PROD-024,5,9.99,49.95,PayPal,Online,,,
+TXN-0048,2025-11-19,CUST-1834,PROD-010,1,44.99,44.99,Debit Card,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0049,18-Nov-2025,CUST-1602,PROD-021,2,89.99,179.98,Cash,Houston - Galleria,Derek Miles,
+TXN-0050,2025-11-19,CUST-1278,PROD-013,1,54.99,54.99,Credit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0051,2025-11-20,CUST-1945,PROD-027,2,74.99,149.98,Credit Card,New York - SoHo,Marcus Rivera,
+TXN-0052,2025-11-20,CUST-1111,PROD-004,1,29.99,29.99,Cash,Denver - LoDo,Kevin O'Brien,
+TXN-0053,11/20/2025,CUST-1576,PROD-018,3,42.99,128.97,Apple Pay,Miami - Wynwood,Patricia Gomez,
+TXN-0054,2025-11-21,CUST-1423,PROD-009,1,199.99,199.99,Debit Card,Chicago - Michigan Ave,Sarah Chen,
+TXN-0055,2025-11-21,CUST-1765,PROD-015,2,94.99,189.98,Credit Card,San Francisco - Union Square,Linda Tran,
+TXN-0056,2025-11-21,CUST-1234,PROD-023,4,18.99,75.96,PayPal,Online,,,"Holiday gift, rush shipping"
+TXN-0057,21-Nov-2025,CUST-1890,PROD-002,1,15.99,15.99,Cash,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0058,2025-11-22,CUST-1347,PROD-020,2,64.99,129.98,Credit Card,Houston - Galleria,Derek Miles,
+TXN-0059,2025-11-22,CUST-1612,PROD-028,1,22.99,22.99,Debit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0060,2025-11-22,CUST-1078,PROD-011,3,74.99,224.97,Cash,New York - SoHo,Marcus Rivera,Black Friday early access
+TXN-0061,11/23/2025,CUST-1501,PROD-026,1,37.99,37.99,Credit Card,Denver - LoDo,Kevin O'Brien,
+TXN-0062,2025-11-23,CUST-1934,PROD-007,2,49.99,99.98,Apple Pay,Miami - Wynwood,Patricia Gomez,
+TXN-0063,2025-11-23,CUST-1256,PROD-014,1,59.99,59.99,PayPal,Online,,,
+TXN-0064,2025-11-24,CUST-1678,PROD-029,1,449.99,449.99,Credit Card,Chicago - Michigan Ave,Sarah Chen,VIP customer
+TXN-0065,2025-11-24,CUST-1143,PROD-003,5,24.99,124.95,Cash,San Francisco - Union Square,Linda Tran,
+TXN-0066,24-Nov-2025,CUST-1809,PROD-019,1,349.99,349.99,Debit Card,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0067,2025-11-25,CUST-1467,PROD-008,2,19.99,39.98,Credit Card,Houston - Galleria,Derek Miles,
+TXN-0068,2025-11-25,CUST-1590,PROD-017,3,34.99,104.97,Cash,Seattle - Pike Place,Yuki Tanaka,
+TXN-0069,2025-11-25,CUST-1322,PROD-001,1,89.99,89.99,Apple Pay,New York - SoHo,Marcus Rivera,
+TXN-0070,11/26/2025,CUST-1756,PROD-022,2,199.99,399.98,Credit Card,Denver - LoDo,Kevin O'Brien,
+TXN-0071,2025-11-26,CUST-1189,PROD-005,1,64.99,64.99,PayPal,Online,,,"Black Friday deal, 30% off"
+TXN-0072,2025-11-26,CUST-1845,PROD-012,4,129.99,519.96,Debit Card,Miami - Wynwood,Patricia Gomez,
+TXN-0073,2025-11-27,CUST-1033,PROD-016,1,279.99,279.99,Credit Card,Chicago - Michigan Ave,Sarah Chen,
+TXN-0074,26-Nov-2025,CUST-1578,PROD-006,2,159.99,319.98,Cash,San Francisco - Union Square,Linda Tran,
+TXN-0075,2025-11-27,CUST-1401,PROD-024,3,9.99,29.97,Credit Card,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0076,2025-11-28,CUST-1712,PROD-010,1,44.99,44.99,Apple Pay,Houston - Galleria,Derek Miles,
+TXN-0077,2025-11-28,CUST-1234,PROD-021,2,89.99,179.98,Debit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0078,11/28/2025,CUST-1890,PROD-013,5,54.99,274.95,Cash,New York - SoHo,Marcus Rivera,
+TXN-0079,2025-11-29,CUST-1156,PROD-027,1,74.99,74.99,Credit Card,Denver - LoDo,,
+TXN-0080,2025-11-29,CUST-1623,PROD-004,2,29.99,59.98,PayPal,Online,,,Cyber Monday
+TXN-0081,2025-11-29,CUST-1478,PROD-018,1,42.99,42.99,Cash,Miami - Wynwood,Patricia Gomez,
+TXN-0082,29-Nov-2025,CUST-1834,PROD-009,3,199.99,599.97,Credit Card,Chicago - Michigan Ave,Sarah Chen,
+TXN-0083,2025-11-30,CUST-1567,PROD-015,1,94.99,94.99,Debit Card,San Francisco - Union Square,Linda Tran,
+TXN-0084,2025-11-30,CUST-1098,PROD-023,2,18.99,37.98,Apple Pay,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0085,2025-12-01,CUST-1345,PROD-002,4,15.99,63.96,Cash,Houston - Galleria,Derek Miles,
+TXN-0086,12/01/2025,CUST-1789,PROD-020,1,64.99,64.99,Credit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0087,2025-12-01,CUST-1201,PROD-028,2,22.99,45.98,PayPal,Online,,,
+TXN-0088,2025-12-02,CUST-1654,PROD-011,1,74.99,74.99,Debit Card,New York - SoHo,Marcus Rivera,
+TXN-0089,2025-12-02,CUST-1423,PROD-026,3,37.99,113.97,Cash,Denver - LoDo,Kevin O'Brien,
+TXN-0090,02-Dec-2025,CUST-1876,PROD-007,2,49.99,99.98,Credit Card,Miami - Wynwood,Patricia Gomez,
+TXN-0091,2025-12-03,CUST-1111,PROD-014,1,59.99,59.99,Apple Pay,Chicago - Michigan Ave,Sarah Chen,
+TXN-0092,2025-12-03,CUST-1543,PROD-029,1,449.99,449.99,Credit Card,San Francisco - Union Square,Linda Tran,Holiday special
+TXN-0093,12/03/2025,CUST-1278,PROD-003,2,24.99,49.98,Cash,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0094,2025-12-04,CUST-1901,PROD-019,1,349.99,349.99,Debit Card,Houston - Galleria,Derek Miles,
+TXN-0095,2025-12-04,CUST-1367,PROD-008,5,19.99,99.95,Credit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0096,2025-12-04,CUST-1745,PROD-017,1,34.99,34.99,PayPal,Online,,,
+TXN-0097,2025-12-05,CUST-1190,PROD-001,3,89.99,269.97,Cash,New York - SoHo,Marcus Rivera,
+TXN-0098,04-Dec-2025,CUST-1612,PROD-022,1,199.99,199.99,Credit Card,Denver - LoDo,Kevin O'Brien,
+TXN-0099,2025-12-05,CUST-1456,PROD-005,2,64.99,129.98,Apple Pay,Miami - Wynwood,Patricia Gomez,
+TXN-0100,2025-12-06,CUST-1809,PROD-012,1,129.99,129.99,Debit Card,Chicago - Michigan Ave,Sarah Chen,
+TXN-0101,2025-12-06,CUST-1334,PROD-016,2,279.99,559.98,Credit Card,San Francisco - Union Square,Linda Tran,
+TXN-0102,12/06/2025,CUST-1078,PROD-006,1,159.99,159.99,Cash,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0103,2025-12-07,CUST-1590,PROD-024,4,9.99,39.96,Credit Card,Houston - Galleria,Derek Miles,
+TXN-0104,2025-12-07,CUST-1234,PROD-010,1,44.99,44.99,PayPal,Online,,,
+TXN-0105,2025-12-07,CUST-1945,PROD-021,2,89.99,179.98,Debit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0106,07-Dec-2025,CUST-1155,PROD-013,3,54.99,164.97,Cash,New York - SoHo,,
+TXN-0107,2025-12-08,CUST-1467,PROD-027,1,74.99,74.99,Credit Card,Denver - LoDo,Kevin O'Brien,
+TXN-0108,2025-12-08,CUST-1721,PROD-004,2,29.99,59.98,Apple Pay,Miami - Wynwood,Patricia Gomez,
+TXN-0109,2025-12-08,CUST-1087,PROD-018,1,42.99,42.99,Credit Card,Chicago - Michigan Ave,Sarah Chen,
+TXN-0110,12/09/2025,CUST-1322,PROD-009,1,199.99,199.99,Cash,San Francisco - Union Square,Linda Tran,
+TXN-0111,2025-12-09,CUST-1756,PROD-015,3,94.99,284.97,Debit Card,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0112,2025-12-09,CUST-1489,PROD-023,2,18.99,37.98,Credit Card,Houston - Galleria,Derek Miles,
+TXN-0113,2025-12-10,CUST-1189,PROD-002,1,15.99,15.99,PayPal,Online,,,
+TXN-0114,2025-12-10,CUST-1845,PROD-020,4,64.99,259.96,Cash,Seattle - Pike Place,Yuki Tanaka,
+TXN-0115,10-Dec-2025,CUST-1578,PROD-028,1,22.99,22.99,Apple Pay,New York - SoHo,Marcus Rivera,
+TXN-0116,2025-12-11,CUST-1712,PROD-011,2,74.99,149.98,Credit Card,Denver - LoDo,Kevin O'Brien,
+TXN-0117,2025-12-11,CUST-1401,PROD-026,1,37.99,37.99,Debit Card,Miami - Wynwood,Patricia Gomez,
+TXN-0118,2025-12-11,CUST-1033,PROD-007,3,49.99,149.97,Cash,Chicago - Michigan Ave,Sarah Chen,
+TXN-0119,12/12/2025,CUST-1654,PROD-014,1,59.99,59.99,Credit Card,San Francisco - Union Square,Linda Tran,
+TXN-0120,2025-12-12,CUST-1812,PROD-029,2,449.99,899.98,Apple Pay,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0121,2025-12-12,CUST-1143,PROD-003,1,24.99,24.99,PayPal,Online,,,"Holiday bundle, includes gift card"
+TXN-0122,2025-12-13,CUST-1876,PROD-019,1,349.99,349.99,Cash,Houston - Galleria,Derek Miles,
+TXN-0123,12-Dec-2025,CUST-1301,PROD-008,2,19.99,39.98,Debit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0124,2025-12-13,CUST-1555,PROD-017,4,34.99,139.96,Credit Card,New York - SoHo,Marcus Rivera,
+TXN-0125,2025-12-14,CUST-1092,PROD-001,1,89.99,89.99,Cash,Denver - LoDo,Kevin O'Brien,
+TXN-0126,2025-12-14,CUST-1423,PROD-022,1,199.99,199.99,Credit Card,Miami - Wynwood,Patricia Gomez,
+TXN-0127,2025-12-14,CUST-1567,PROD-005,3,64.99,194.97,Apple Pay,Chicago - Michigan Ave,Sarah Chen,
+TXN-0128,12/15/2025,CUST-1834,PROD-016,1,279.99,279.99,Debit Card,San Francisco - Union Square,Linda Tran,
+TXN-0129,2025-12-15,CUST-1098,PROD-006,2,159.99,319.98,Credit Card,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0130,2025-12-15,CUST-1230,PROD-024,1,9.99,9.99,PayPal,Online,,,
+TXN-0131,2025-12-16,CUST-1745,PROD-010,3,44.99,134.97,Cash,Houston - Galleria,Derek Miles,
+TXN-0132,15-Dec-2025,CUST-1190,PROD-021,1,89.99,89.99,Credit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0133,2025-12-16,CUST-1501,PROD-013,2,54.99,109.98,Debit Card,New York - SoHo,Marcus Rivera,
+TXN-0134,2025-12-17,CUST-1612,PROD-027,1,74.99,74.99,Cash,Denver - LoDo,Kevin O'Brien,
+TXN-0135,2025-12-17,CUST-1278,PROD-004,4,29.99,119.96,Credit Card,Miami - Wynwood,Patricia Gomez,
+TXN-0136,12/17/2025,CUST-1390,PROD-018,2,42.99,85.98,Apple Pay,Chicago - Michigan Ave,Sarah Chen,
+TXN-0137,2025-12-18,CUST-1456,PROD-009,1,199.99,199.99,Credit Card,San Francisco - Union Square,Linda Tran,
+TXN-0138,2025-12-18,CUST-1789,PROD-015,1,94.99,94.99,PayPal,Online,,,
+TXN-0139,2025-12-18,CUST-1334,PROD-023,3,18.99,56.97,Cash,Los Angeles - Beverly Hills,,
+TXN-0140,2025-12-19,CUST-1667,PROD-002,2,15.99,31.98,Debit Card,Houston - Galleria,Derek Miles,
+TXN-0141,18-Dec-2025,CUST-1078,PROD-020,1,64.99,64.99,Credit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0142,2025-12-19,CUST-1543,PROD-028,5,22.99,114.95,Apple Pay,New York - SoHo,Marcus Rivera,
+TXN-0143,2025-12-20,CUST-1901,PROD-011,1,74.99,74.99,Cash,Denver - LoDo,Kevin O'Brien,
+TXN-0144,12/20/2025,CUST-1111,PROD-026,2,37.99,75.98,Credit Card,Miami - Wynwood,Patricia Gomez,
+TXN-0145,2025-12-20,CUST-1423,PROD-007,3,49.99,149.97,Debit Card,Chicago - Michigan Ave,Sarah Chen,
+TXN-0146,2025-12-21,CUST-1155,PROD-014,1,59.99,59.99,Credit Card,San Francisco - Union Square,Linda Tran,
+TXN-0147,2025-12-21,CUST-1345,PROD-029,1,449.99,449.99,PayPal,Online,,,Last-minute gift
+TXN-0148,2025-12-21,CUST-1809,PROD-003,2,24.99,49.98,Cash,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0149,20-Dec-2025,CUST-1489,PROD-019,1,349.99,349.99,Apple Pay,Houston - Galleria,Derek Miles,
+TXN-0150,2025-12-22,CUST-1623,PROD-008,4,19.99,79.96,Debit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0151,2025-12-22,CUST-1742,PROD-017,1,34.99,34.99,Credit Card,New York - SoHo,Marcus Rivera,
+TXN-0152,12/22/2025,CUST-1156,PROD-001,2,89.99,179.98,Cash,Denver - LoDo,Kevin O'Brien,
+TXN-0153,2025-12-23,CUST-1867,PROD-022,1,199.99,199.99,Credit Card,Miami - Wynwood,Patricia Gomez,
+TXN-0154,2025-12-23,CUST-1234,PROD-005,1,64.99,64.99,Apple Pay,Chicago - Michigan Ave,Sarah Chen,
+TXN-0155,2025-12-23,CUST-1590,PROD-012,3,129.99,389.97,Debit Card,San Francisco - Union Square,Linda Tran,
+TXN-0156,2025-12-24,CUST-1055,PROD-016,1,279.99,279.99,Credit Card,Los Angeles - Beverly Hills,James Whitfield,Christmas Eve purchase
+TXN-0157,23-Dec-2025,CUST-1712,PROD-006,2,159.99,319.98,Cash,Houston - Galleria,Derek Miles,
+TXN-0158,2025-12-24,CUST-1401,PROD-024,5,9.99,49.95,PayPal,Online,,,
+TXN-0159,2025-12-24,CUST-1876,PROD-010,1,44.99,44.99,Credit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0160,12/25/2025,CUST-1322,PROD-021,2,89.99,179.98,Apple Pay,New York - SoHo,,Christmas Day online order
+TXN-0161,2025-12-26,CUST-1578,PROD-013,1,54.99,54.99,Cash,Denver - LoDo,Kevin O'Brien,
+TXN-0162,2025-12-26,CUST-1189,PROD-027,3,74.99,224.97,Credit Card,Miami - Wynwood,Patricia Gomez,Boxing Day sale
+TXN-0163,2025-12-27,CUST-1845,PROD-004,2,29.99,59.98,Debit Card,Chicago - Michigan Ave,Sarah Chen,
+TXN-0164,2025-12-27,CUST-1467,PROD-018,1,42.99,42.99,Credit Card,San Francisco - Union Square,Linda Tran,
+TXN-0165,27-Dec-2025,CUST-1087,PROD-009,1,199.99,199.99,PayPal,Online,,,
+TXN-0166,2025-12-28,CUST-1756,PROD-015,2,94.99,189.98,Cash,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0167,2025-12-28,CUST-1190,PROD-023,4,18.99,75.96,Apple Pay,Houston - Galleria,Derek Miles,
+TXN-0168,12/28/2025,CUST-1654,PROD-002,1,15.99,15.99,Debit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0169,2025-12-29,CUST-1423,PROD-020,3,64.99,194.97,Credit Card,New York - SoHo,Marcus Rivera,
+TXN-0170,2025-12-29,CUST-1033,PROD-028,1,22.99,22.99,Cash,Denver - LoDo,Kevin O'Brien,
+TXN-0171,2025-12-30,CUST-1812,PROD-011,2,74.99,149.98,Credit Card,Miami - Wynwood,Patricia Gomez,
+TXN-0172,29-Dec-2025,CUST-1567,PROD-026,1,37.99,37.99,Apple Pay,Chicago - Michigan Ave,Sarah Chen,
+TXN-0173,2025-12-30,CUST-1098,PROD-007,3,49.99,149.97,Debit Card,San Francisco - Union Square,Linda Tran,
+TXN-0174,2025-12-31,CUST-1745,PROD-014,1,59.99,59.99,Credit Card,Los Angeles - Beverly Hills,James Whitfield,
+TXN-0175,12/31/2025,CUST-1301,PROD-029,2,449.99,899.98,Cash,Houston - Galleria,Derek Miles,New Year's Eve splurge
+TXN-0176,2025-12-31,CUST-1445,PROD-003,1,24.99,24.99,PayPal,Online,,,
+TXN-0177,2025-12-31,CUST-1678,PROD-019,1,349.99,349.99,Credit Card,Seattle - Pike Place,Yuki Tanaka,
+TXN-0178,2026-01-02,CUST-1230,PROD-008,2,19.99,39.98,Apple Pay,New York - SoHo,Marcus Rivera,
+TXN-0179,2026-01-02,CUST-1555,PROD-017,4,34.99,139.96,Debit Card,Denver - LoDo,Kevin O'Brien,
+TXN-0180,01/03/2026,CUST-1143,PROD-001,1,89.99,89.99,Cash,Miami - Wynwood,Patricia Gomez,
+TXN-0181,2026-01-03,CUST-1390,PROD-022,2,199.99,399.98,Credit Card,Chicago - Michigan Ave,Sarah Chen,
+TXN-0182,2026-01-04,CUST-1809,PROD-005,1,64.99,64.99,Credit Card,San Francisco - Union Square,Linda Tran,
+TXN-0183,2026-01-04,CUST-1489,PROD-016,1,279.99,279.99,PayPal,Online,,,
+TXN-0184,2027-06-15,CUST-1042,PROD-012,1,129.99,129.99,Credit Card,Chicago - Michigan Ave,Sarah Chen,ANOMALY: Future date transaction
+TXN-0185,2027-09-22,CUST-1567,PROD-006,2,159.99,319.98,Debit Card,New York - SoHo,Marcus Rivera,ANOMALY: Future date transaction
+TXN-0186,2026-01-05,CUST-1234,PROD-010,3,44.99,199.97,Credit Card,Los Angeles - Beverly Hills,James Whitfield,ANOMALY: total should be 134.97 not 199.97
+TXN-0187,2026-01-05,CUST-1901,PROD-021,2,89.99,99.99,Cash,Houston - Galleria,Derek Miles,ANOMALY: total should be 179.98 not 99.99
+TXN-0188,01/06/2026,CUST-1278,PROD-013,1,54.99,154.99,Apple Pay,Seattle - Pike Place,Yuki Tanaka,ANOMALY: total should be 54.99 not 154.99
+TXN-0189,2026-01-06,CUST-1612,PROD-027,4,74.99,249.97,Credit Card,New York - SoHo,Marcus Rivera,ANOMALY: total should be 299.96 not 249.97
+TXN-0190,2026-01-07,CUST-1155,PROD-004,5,29.99,199.95,Debit Card,Denver - LoDo,Kevin O'Brien,ANOMALY: total should be 149.95 not 199.95
+TXN-0191,2026-01-07,CUST-1345,PROD-018,-3,42.99,-128.97,Cash,Miami - Wynwood,Patricia Gomez,ANOMALY: Negative quantity
+TXN-0192,2026-01-08,CUST-1789,PROD-009,2,-199.99,-399.98,Credit Card,Chicago - Michigan Ave,Sarah Chen,ANOMALY: Negative unit price
+TXN-0193,2026-01-08,CUST-1478,PROD-015,-1,94.99,-94.99,Apple Pay,San Francisco - Union Square,Linda Tran,ANOMALY: Negative quantity
+TXN-0194,2026-01-09,CUST-1667,PROD-003,99999,24.99,2499875.01,PayPal,Online,,,ANOMALY: Extreme outlier quantity
+TXN-0195,2026-01-09,CUST-1087,PROD-007,99999,49.99,4998900.01,Cash,Los Angeles - Beverly Hills,James Whitfield,ANOMALY: Extreme outlier quantity
+TXN-0196,01/10/2026,CUST-1543,PROD-014,99999,59.99,5998900.01,Debit Card,Houston - Galleria,Derek Miles,ANOMALY: Extreme outlier quantity
+TXN-0197,2026-01-10,CUST-1042,PROD-019,1,349.99,349.99,Credit Card,Los Angeles - Beverly Hills,Sarah Chen,ANOMALY: FRAUD - Same customer CUST-1042 same time different city as TXN-0198
+TXN-0198,2026-01-10,CUST-1042,PROD-022,1,199.99,199.99,Credit Card,Miami - Wynwood,James Whitfield,ANOMALY: FRAUD - Same customer CUST-1042 same time different city as TXN-0197
+TXN-0199,2026-01-10,CUST-1278,PROD-005,2,64.99,129.98,Credit Card,Seattle - Pike Place,Yuki Tanaka,Price in EUR - amount was 119.50 EUR
+TXN-0200,2026-01-11,CUST-1456,PROD-012,1,129.99,129.99,Cash,Denver - LoDo,Kevin O'Brien,Price in GBP - amount was 104.99 GBP
+TXN-0201,2026-01-11,CUST-1390,PROD-008,2,19.99,39.98,Credit Card,New York - SoHo,Marcus Rivera,
+TXN-0202,2026-01-05,CUST-1234,PROD-010,3,44.99,134.97,Credit Card,Los Angeles - Beverly Hills,James Whitfield,DUPLICATE of TXN-0186 content with correct total
+TXN-0203,2026-01-06,CUST-1612,PROD-027,4,74.99,299.96,Credit Card,New York - SoHo,Marcus Rivera,DUPLICATE of TXN-0189 content with correct total
+TXN-0204,2026-01-07,CUST-1155,PROD-004,5,29.99,149.95,Debit Card,Denver - LoDo,Kevin O'Brien,DUPLICATE of TXN-0190 content with correct total
+TXN-0205,2026-01-08,CUST-1789,PROD-009,2,199.99,399.98,Credit Card,Chicago - Michigan Ave,Sarah Chen,DUPLICATE of TXN-0192 content with positive price
